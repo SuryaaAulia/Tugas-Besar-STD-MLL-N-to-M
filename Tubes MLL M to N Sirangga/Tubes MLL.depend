@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1672645573 source:c:\users\epens\onedrive\dokumen\mapel\semester 3\struktur data\tp c++\tubes mll\mahasiswa.cpp
+	"Tubes.h"
+
+1672642683 c:\users\epens\onedrive\dokumen\mapel\semester 3\struktur data\tp c++\tubes mll\tubes.h
+	<iostream>
+
+1672646294 source:c:\users\epens\onedrive\dokumen\mapel\semester 3\struktur data\tp c++\tubes mll\main.cpp
+	"Tubes.h"
+
+1672645433 source:c:\users\epens\onedrive\dokumen\mapel\semester 3\struktur data\tp c++\tubes mll\matkul.cpp
+	"Tubes.h"
+
+1673124082 source:c:\users\surya\downloads\tubes mll\mahasiswa.cpp
+	"Tubes.h"
+
+1673122065 c:\users\surya\downloads\tubes mll\tubes.h
+	<iostream>
+
+1673123616 source:c:\users\surya\downloads\tubes mll\main.cpp
+	"Tubes.h"
+
+1673123643 source:c:\users\surya\downloads\tubes mll\matkul.cpp
+	"Tubes.h"
+
+1673149445 source:c:\users\surya\downloads\tubes mll_udahbener\mahasiswa.cpp
+	"Tubes.h"
+
+1673122065 c:\users\surya\downloads\tubes mll_udahbener\tubes.h
+	<iostream>
+
+1673149521 source:c:\users\surya\downloads\tubes mll_udahbener\matkul.cpp
+	"Tubes.h"
+
+1673152047 source:c:\users\surya\downloads\tubes mll_udahbener\main.cpp
+	"Tubes.h"
+
