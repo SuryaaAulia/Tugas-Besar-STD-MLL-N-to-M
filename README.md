@@ -1,4 +1,4 @@
-----------------------------------------------------------------Tugas Besar Struktur Data-----------------------------------------------------------------
+----------------------------------------------Tugas Besar Struktur Data---------------------------------------------------
 
 Studi kasus pilih mata kulia (Sirangga) dengan menggunakan konsep Multi Linked List M to N
 
